@@ -35,17 +35,19 @@ AstraRAG enables grounded, document-aware conversational AI with structured outp
 ---
 
 ## 📂 Project Structure
+
+```
 Agentic_Rag_Chatbot/
 │
 ├── agents_src/
-│ ├── agents/
-│ ├── tasks/
-│ ├── tools/
-│ └── llm/
+│   ├── agents/
+│   ├── tasks/
+│   ├── tools/
+│   └── llm/
 │
 ├── backend_src/
-│ ├── api/
-│ └── services/
+│   ├── api/
+│   └── services/
 │
 ├── frontend_src/
 ├── rag_doc_ingestion/
@@ -55,3 +57,4 @@ Agentic_Rag_Chatbot/
 ├── Dockerfile
 ├── requirements.txt
 └── start.sh
+```
