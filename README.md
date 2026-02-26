@@ -58,3 +58,7 @@ Agentic_Rag_Chatbot/
 ├── requirements.txt
 └── start.sh
 ```
+## 🎥 Demo Video
+
+![Demo](assets/demo.gif)
+---
